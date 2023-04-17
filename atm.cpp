@@ -106,7 +106,7 @@ int main()
      }
      else
      {
-          cout << "\tInvalid Account Number!!";
+          cout << "\tInvalid Mobile Number!!";
      }
      return 0;
 }
